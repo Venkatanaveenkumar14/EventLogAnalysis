@@ -6,4 +6,4 @@ compromised. The mission is to detect the malicious activities
 taken by the eibmoZ.
 - Nature of the malicious activities: some command line commands
 - Fortunately, these malicious activities were recorded in a log file
-- The Task: Can IST 820 students write a few Python scripts to analyze the log data and detect malicious activities?
+- Task: Python scripts to analyze the log data and detect malicious activities.
